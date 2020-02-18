@@ -19,3 +19,25 @@
         git push -u origin master
     </li>
 </ol>
+
+<ol>
+    <li>
+        Fork repository
+    </li>
+    <li>
+        Clone the forked repo
+    </li>
+    <li>
+        make changes
+    </li>
+    <li>
+        git add, git commit -m "message"
+    </li>
+    <li>
+        git push
+    </li>
+    </li>
+    <li>
+        pull request
+    </li>
+</ol>
